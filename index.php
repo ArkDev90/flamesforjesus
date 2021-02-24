@@ -60,7 +60,7 @@ include 'configuration/initialize.php';
 								<small class="slide-subtitle">Guiding light to Communities</small>
 								<h2 class="slide-title">Our Local Ministries</h2>
 
-								<a href="#" class="button" style="color:white">See our local ministries</a>
+								<a href="#communities" class="button" style="color:white">See our local ministries</a>
 							</div>
 						</div>
 					</li>
@@ -71,7 +71,7 @@ include 'configuration/initialize.php';
 								<small class="slide-subtitle">Guiding light to Communities</small>
 								<h2 class="slide-title">Our Office Ministries</h2>
 
-								<a href="#" class="button" style="color:white">See our office ministries</a>
+								<a href="#communities" class="button" style="color:white">See our office ministries</a>
 							</div>
 						</div>
 					</li>
@@ -82,7 +82,7 @@ include 'configuration/initialize.php';
 								<small class="slide-subtitle">Guiding light to our youth</small>
 								<h2 class="slide-title">Young Flames for Jesus </h2>
 
-								<a href="#" class="button" style="color:white">See our YFJ PROVINCIAL  BRANCHES</a>
+								<a href="#communities" class="button" style="color:white">See our YFJ PROVINCIAL  BRANCHES</a>
 							</div>
 						</div>
 					</li>
@@ -98,28 +98,28 @@ include 'configuration/initialize.php';
 							<div class="col-md-3 col-sm-6">
 								<div class="news">
 									<image class="news-image" src="<?php echo HOMEMAIN ?>/public/updates/2018_05_20_stonino.jpg"></image>
-									<h3 class="news-title"><a href="#">Prayer for Healing Made Part of the Sto. Niño Mass too!</a></h3>
+									<h3 class="news-title"><a href="article.php?id=article_4#content">Prayer for Healing Made Part of the Sto. Niño Mass too!</a></h3>
 									<small class="date"><i class="fa fa-calendar"></i>May 27 2018</small>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6">
 								<div class="news">
 									<image class="news-image" src="<?php echo HOMEMAIN ?>/public/updates/2018_05_20_stefanus.jpg"></image>
-									<h3 class="news-title"><a href="#">The Healing Activity at Saint Stefanus Church (Monastery of St. Augustine) in Ghent</a></h3>
+									<h3 class="news-title"><a href="article.php?id=article_3#content">The Healing Activity at Saint Stefanus Church (Monastery of St. Augustine) in Ghent</a></h3>
 									<small class="date"><i class="fa fa-calendar"></i>May 20, 2018</small>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6">
 								<div class="news">
 									<image class="news-image" src="<?php echo HOMEMAIN ?>/public/updates/2018_05_19_healing.jpg"></image>
-									<h3 class="news-title"><a href="#">An Evening of Healing with CARA NOVA, a Belgian Catholic Charismatic Community in Ghent</a></h3>
+									<h3 class="news-title"><a href="article.php?id=article_2#content">An Evening of Healing with CARA NOVA, a Belgian Catholic Charismatic Community in Ghent</a></h3>
 									<small class="date"><i class="fa fa-calendar"></i>May 23 2018</small>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6">
 								<div class="news">
 									<image class="news-image" src="<?php echo HOMEMAIN ?>/public/updates/2018_05_19_pilgrimage.jpg"></image>
-									<h3 class="news-title"><a href="#">The Pilgrimage to Kevelaer, Germany</a></h3>
+									<h3 class="news-title"><a href="article.php?id=article_1#content">The Pilgrimage to Kevelaer, Germany</a></h3>
 									<small class="date"><i class="fa fa-calendar"></i>May 19, 2018</small>
 								</div>
 							</div>

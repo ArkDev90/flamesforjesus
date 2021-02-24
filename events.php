@@ -69,45 +69,45 @@ include 'configuration/initialize.php';
 									<li>
 										<image height="120px" width="120px" src="<?php echo HOMEMAIN ?>/public/updates/2018_05_20_stonino.jpg"></image>
 										<div class="seremon-detail">
-											<h3 class="seremon-title"><a href="#">Prayer for Healing Made Part of the Sto. Niño Mass too!</a></h3>
+											<h3 class="seremon-title"><a href="article.php?id=article_4#content">Prayer for Healing Made Part of the Sto. Niño Mass too!</a></h3>
 											<div class="seremon-meta">
-												<div class="pastor"><i class="fa fa-user"></i> Alan Ray</div>
+												<div class="pastor"><i class="fa fa-user"></i> ELISA BATAC DEBRUYNE</div>
 												<div class="date"><i class="fa fa-calendar"></i>May 27 2018</div>
 											</div>
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam molestiae doloribus deserunt minus a dicta labore beatae maiores assumenda. Laudantium nihil, maxime molestiae soluta doloribus magnam eum. Nesciunt, ea, sint.</p>
+											<p>The kick-off activity of this European breakthrough happened during the pilgrimage to Kevelaer, Germany. The activity was organized by the Ministry of Sto. Niño, Ghent, the community we are affiliated with here in Belgium. Even prior to the filing/approval of....</p>
 										</div>
 									</li>
 									<li>
 										<image height="120px" width="120px" src="<?php echo HOMEMAIN ?>/public/updates/2018_05_20_stefanus.jpg"></image>
 										<div class="seremon-detail">
-											<h3 class="seremon-title"><a href="#">The Healing Activity at Saint Stefanus Church (Monastery of St. Augustine) in Ghent</a></h3>
+											<h3 class="seremon-title"><a href="article.php?id=article_3#content">The Healing Activity at Saint Stefanus Church (Monastery of St. Augustine) in Ghent</a></h3>
 											<div class="seremon-meta">
-												<div class="pastor"><i class="fa fa-user"></i> David Clark</div>
+												<div class="pastor"><i class="fa fa-user"></i> ELISA BATAC DEBRUYNE</div>
 												<div class="date"><i class="fa fa-calendar"></i>May 20, 2018</div>
 											</div>
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam dignissimos corporis quidem at nobis impedit perspiciatis, accusantium qui natus amet sapiente voluptate doloribus laboriosam officia deserunt possimus cumque inventore. Ipsum.</p>
+											<p>On the day following the Pilgrimage to Kevelaer, Kuya Mon conducted a short, basic training on how to pray for healing. This was attended by a number of committed members of the MSN, plus some more interested friends/brothers and sisters....</p>
 										</div>
 									</li>
 									<li>
 										<image height="120px" width="120px" src="<?php echo HOMEMAIN ?>/public/updates/2018_05_19_healing.jpg"></image>
 										<div class="seremon-detail">
-											<h3 class="seremon-title"><a href="#">An Evening of Healing with CARA NOVA, a Belgian Catholic Charismatic Community in Ghent</a></h3>
+											<h3 class="seremon-title"><a href="article.php?id=article_2#content">An Evening of Healing with CARA NOVA, a Belgian Catholic Charismatic Community in Ghent</a></h3>
 											<div class="seremon-meta">
-												<div class="pastor"><i class="fa fa-user"></i> anthony roberts</div>
+												<div class="pastor"><i class="fa fa-user"></i> ELISA BATAC DEBRUYNE</div>
 												<div class="date"><i class="fa fa-calendar"></i>May 23 2018</div>
 											</div>
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis nisi rem est amet, ducimus, aut, atque error accusantium facilis ab adipisci! Cumque, corrupti sapiente dolores saepe adipisci dignissimos quod unde.</p>
+											<p>Quickened by the Holy Spirit after the Sunday Healing Activity at the Sint Stefanus Church, Dirk Claeys, a committed member of MSN Community, testified to his friends in CARA NOVA about what transpired that Sunday at the Sint Stefanus church.  He is also an attendee....</p>
 										</div>
 									</li>
 									<li>
 										<image height="120px" width="120px" src="<?php echo HOMEMAIN ?>/public/updates/2018_05_19_pilgrimage.jpg"></image>
 										<div class="seremon-detail">
-											<h3 class="seremon-title"><a href="#">The Pilgrimage to Kevelaer, Germany</a></h3>
+											<h3 class="seremon-title"><a href="article.php?id=article_1#content">The Pilgrimage to Kevelaer, Germany</a></h3>
 											<div class="seremon-meta">
-												<div class="pastor"><i class="fa fa-user"></i> David Clark</div>
+												<div class="pastor"><i class="fa fa-user"></i> ELISA BATAC DEBRUYNE</div>
 												<div class="date"><i class="fa fa-calendar"></i>May 19, 2018</div>
 											</div>
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam dignissimos corporis quidem at nobis impedit perspiciatis, accusantium qui natus amet sapiente voluptate doloribus laboriosam officia deserunt possimus cumque inventore. Ipsum.</p>
+											<p>Each last Sunday of the month, MSN community holds Holy Mass celebrations. Therefore on May 27, just 2 days prior to Kuya Mon's departure for the Philippines, the Sto. Niño Mass was held. In coordination with the leaders of the community and the priests/Mass celebrants,....</p>
 										</div>
 									</li>
 								</ul>
@@ -129,12 +129,12 @@ include 'configuration/initialize.php';
 									?>
 
 									<div class="galery-thumb">
-										<a href="gallery.php"><img height="100px" width="100px" src="<?php echo random_pic()?>" alt=""></a>
-										<a href="gallery.php"><img height="100px" width="100px" src="<?php echo random_pic()?>" alt=""></a>
-										<a href="gallery.php"><img height="100px" width="100px" src="<?php echo random_pic()?>" alt=""></a>
-										<a href="gallery.php"><img height="100px" width="100px" src="<?php echo random_pic()?>" alt=""></a>
-										<a href="gallery.php"><img height="100px" width="100px" src="<?php echo random_pic()?>" alt=""></a>
-										<a href="gallery.php"><img height="100px" width="100px" src="<?php echo random_pic()?>" alt=""></a>
+										<a target="_blank" href="<?php echo $randpic = random_pic()?>"><img height="125px" width="125px" src="<?php  echo $randpic?>" alt=""></a>
+										<a target="_blank" href="<?php echo $randpic = random_pic()?>"><img height="125px" width="125px" src="<?php  echo $randpic?>" alt=""></a>
+										<a target="_blank" href="<?php echo $randpic = random_pic()?>"><img height="125px" width="125px" src="<?php  echo $randpic?>" alt=""></a>
+										<a target="_blank" href="<?php echo $randpic = random_pic()?>"><img height="125px" width="125px" src="<?php  echo $randpic?>" alt=""></a>
+										<a target="_blank" href="<?php echo $randpic = random_pic()?>"><img height="125px" width="125px" src="<?php  echo $randpic?>" alt=""></a>
+										<a target="_blank" href="<?php echo $randpic = random_pic()?>"><img height="125px" width="125px" src="<?php  echo $randpic?>" alt=""></a>
 									</div>
 								</div>
 							</div>
